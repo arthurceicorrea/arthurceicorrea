@@ -1,4 +1,4 @@
-# 💻 Arthur Cei Corrêa
+# Software Engineer
 
 <p align="center">
   <em>«True engineering transcends simple syntax: it is the art of giving structural nobility, order, and perpetual stability to complex systems.»</em>
