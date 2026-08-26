@@ -25,7 +25,7 @@ Dedicated to the discipline of **Software Engineering**, I construct high-reliab
 
 ### 🏆 Key Applied Projects & Honors
 
-* **🥈 Astéria Enterprise Management Platform — 2nd Place @ FIAP Challenge**
+* **🥈 Asteria Enterprise Management Platform — 2nd Place @ FIAP Challenge**
   * Built an enterprise-grade desktop operations management solution alongside team *CodeSquad*.
   * Designed using pure **Java**, **Maven**, and **MySQL**, adhering to strict OOP principles, layered architectures, and database normalization.
   
