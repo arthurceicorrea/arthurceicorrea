@@ -1,69 +1,58 @@
-# 🌐 Arthur Cei Corrêa
+# Arthur Cei Corrêa
 
-<p align="center">
-  <em>«True engineering transcends simple syntax: it is the art of giving structural nobility, order, and perpetual stability to complex systems.»</em>
-</p>
+*Ordo est ratio rei.* Good engineering is, above all, order.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.S._Software_Engineering-FIAP_(2027)-0052CC?style=for-the-badge&logo=mortarboard&logoColor=white" alt="FIAP" />
-  <img src="https://img.shields.io/badge/Enterprise-Azure_DevOps_&_CI/CD-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="DevOps" />
-  <img src="https://img.shields.io/badge/Focus-DevOps_|_Backend_|_Applied_AI-0E1128?style=for-the-badge" alt="Focus" />
-</p>
+Software Engineering student at FIAP (expected December 2027), based in
+São Paulo, Brazil. I work on DevOps, cloud infrastructure and applied AI.
+I am looking for an internship or junior position in DevOps and Cloud,
+remote or hybrid, in Brazil or abroad.
 
----
+## Experience
 
-### 🖋️ Executive Summary
+**DevOps Intern — Vivo (Telefônica Brasil)** · Aug 2024 – Dec 2025
+Supported, under supervision, the maintenance of CI/CD pipelines in
+Azure DevOps and helped the team analyze pipeline bottlenecks, in
+environments built with Terraform, Docker, Kubernetes and Linux. Studied
+and followed in practice reliability concepts (SLI, SLO, SLA).
 
-Dedicated to the discipline of **Software Engineering**, I design resilient backend architectures, automated delivery lifecycles, and applied machine learning integration paths. My background bridges hands-on enterprise operations with rigorous academic development:
+## Projects
 
-* 🎓 **Academic Foundations:** B.S. in Software Engineering at **FIAP** *(Expected Graduation: Nov 2027)*.
-* ⚙️ **Enterprise DevOps Engineering:** Hands-on telecommunications experience at **Vivo (Telefônica Brasil)**, orchestrating continuous delivery pipelines, automating build/release lifecycles, and managing infrastructure workflows within **Azure DevOps**.
-* 🧩 **Backend Engineering & OOP:** Solid foundation in layered architecture, deterministic services, enterprise design patterns, and relational database modeling.
-* 🤖 **Applied AI & MLOps Convergence:** Exploring the intersection of automated CI/CD lifecycles with **Applied AI**, model deployment workflows, and predictive data systems.
+- **Vinheria Agnello — infrastructure integration** (FIAP, 2026, team
+  CodeSquad, private repository)
+  Integrated, with Docker Compose, two .NET microservices with DNS and DHCP
+  (dnsmasq), JWT authentication and TLS. Configured a Jenkins pipeline that
+  builds, publishes and deploys the services, with automated validation
+  scripts and execution evidence. Also contributed Tableau and Node-RED
+  (MQTT) dashboards.
 
----
+- **Confidential academic project** (FIAP, 2026, team, in progress)
+  Details are kept private for now. I am responsible for the security and
+  testing of a .NET API: JWT authentication, role-based access,
+  per-institution data isolation, protection against SQL injection and XSS,
+  an 8-case test plan executed with evidence, and xUnit tests of the
+  business rules.
 
-### ⚔️ Technical Arsenal
+- **[SellOut EasyTrack](https://github.com/arthurceicorrea/SellOutEasyTrack)**
+  — 2nd place, FIAP Challenge 2025 (Asteria), team CodeSquad
+  Sales-management desktop application in Java 11, Maven and MySQL, with
+  JUnit tests and analysis in R. I developed the core back-end logic.
 
-**Core Languages & Engineering Paradigms**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![OOP](https://img.shields.io/badge/OOP-Enterprise_Patterns-6C3483?style=flat-square)
+## Coursework labs
 
-**DevOps, Infrastructure & Delivery Pipelines**  
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-%230078D7.svg?style=flat-square&logo=azure-devops&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated_Pipelines-2E4053?style=flat-square)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-Lifecycle_&_Deploy-005C84?style=flat-square)
+Linux (Debian, SSH) · Windows Server (Active Directory, DHCP, DNS) ·
+Jenkins and GitHub Actions · machine learning with Python and scikit-learn
 
-**Data Persistence & Intelligence**  
-![SQL](https://img.shields.io/badge/SQL-Relational_Modeling-005C84?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat-square&logo=tableau&logoColor=white)
+## Stack
 
-**Applied Artificial Intelligence & Systems**  
-![Applied AI](https://img.shields.io/badge/AI-Applied_Intelligence-7B1FA2?style=flat-square)
-![MLOps](https://img.shields.io/badge/MLOps-Pipeline_Integration-1565C0?style=flat-square)
-![Distributed Systems](https://img.shields.io/badge/Systems-High_Availability-2E7D32?style=flat-square)
+**Languages:** Java · Python · C# · JavaScript · SQL · R  
+**DevOps:** Azure DevOps · Jenkins · GitHub Actions · Docker · Docker Compose · Terraform · Kubernetes · Linux · Git  
+**Applied AI:** Python · scikit-learn · LangGraph · RAG · ChromaDB  
+**Data:** MySQL · Oracle Database · Tableau · Power BI  
+**Testing and security:** JUnit · xUnit · JWT · TLS
 
----
+## Languages
 
-### 🏆 Key Applied Projects & Honors
+Portuguese (native) · English (fluent) · Spanish (advanced) ·
+Italian (basic) · Latin (basic)
 
-* **🥈 Asteria Enterprise Management Platform — 2nd Place @ FIAP Challenge**
-  * Co-engineered an operations desktop platform using **Java**, **Maven**, and **MySQL**.
-  * Applied strict OOP separation of concerns, normalized schemas, and maintainable layered structures.
-* **🍇 Vinheria Agnello | Smart Monitoring & Telemetry (PBL Project)**
-  * Engineered an end-to-end monitoring solution coupling software telemetry, structured data persistence, and automated environmental threshold analysis.
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/arthurceicorrea/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/arthurceicorrea/)
