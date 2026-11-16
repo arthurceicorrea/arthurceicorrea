@@ -6,7 +6,7 @@
 
 **Software Engineering student at FIAP · DevOps, Cloud & Applied AI**
 
-São Paulo, Brazil · [LinkedIn](https://www.linkedin.com/in/arthurceicorrea/)
+São Paulo, Brazil · [Portfolio](https://arthurceicorrea.github.io/) · [LinkedIn](https://www.linkedin.com/in/arthurceicorrea/)
 
 </div>
 
@@ -89,6 +89,6 @@ Portuguese (native) · English (fluent) · Spanish (advanced) · Italian (basic)
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/arthurceicorrea/)
+[Portfolio](https://arthurceicorrea.github.io/) · [LinkedIn](https://www.linkedin.com/in/arthurceicorrea/)
 
 </div>
