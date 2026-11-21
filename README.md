@@ -41,15 +41,15 @@ Software Engineering student at FIAP (expected December 2027), based in São Pau
 - Configured a Jenkins pipeline that builds, publishes and deploys the services, with automated validation scripts and execution evidence.
 - Also contributed Tableau and Node-RED (MQTT) dashboards.
 
-### Confidential academic project
+### [Frio Solidário](https://github.com/CodeSquad-FIAP/Frio-Solidario-Global-Solution)
 
-`FIAP · 2026 · Team · in progress`
+`FIAP · Global Solution 2026/2 · Team CodeSquad · November 2026`
 
-Details are kept private for now. I am responsible for the security and testing of a .NET API:
+Monitors the cold chain in food banks and donor shops: sensors measure temperature, humidity and door opening, the API checks each reading against the equipment's range, and the app warns the volunteer before a batch is lost. I was responsible for the security and testing of the .NET API:
 
 - JWT authentication, role-based access and per-institution data isolation.
 - Protection against SQL injection and XSS.
-- An 8-case test plan executed with evidence, and xUnit tests of the business rules.
+- A test plan executed with evidence, and xUnit tests of the business rules.
 
 ### [SellOut EasyTrack](https://github.com/arthurceicorrea/SellOutEasyTrack)
 
